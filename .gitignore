@@ -1,6 +1,11 @@
-# Public CCVLD — CHI 3 file, khong key khong code
+# Public CCVLD — file tai ve + trang admin web
 *
 !.gitignore
+!.nojekyll
+!index.html
+!admin
+!admin/**
+!CCVLD.exe
 !CCVLD.zip
 !version.txt
 !README.md
