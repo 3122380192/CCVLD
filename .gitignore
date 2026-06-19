@@ -1,10 +1,6 @@
-# Public CCVLD — file tai ve + trang admin web
+# Public CCVLD — CHI file tai ve, KHONG admin, KHONG code
 *
 !.gitignore
-!.nojekyll
-!index.html
-!admin
-!admin/**
 !CCVLD.exe
 !CCVLD.zip
 !version.txt
