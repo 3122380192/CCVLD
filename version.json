@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "tools": {
+    "AProty.exe": "1.0.0",
+    "AProty3.exe": "1.0.0",
+    "BKAV.exe": "1.0.0",
+    "Bliz.exe": "1.0.0",
+    "Bu_Custom.exe": "1.0.0",
+    "CFPVV.exe": "1.0.0",
+    "devenv.exe": "1.0.0",
+    "devenv1.exe": "1.0.0",
+    "devenv2.exe": "1.0.0",
+    "devenv3.exe": "1.0.0",
+    "devenv4.exe": "1.0.0",
+    "devenv5.exe": "1.0.0",
+    "devenv6.exe": "1.0.0",
+    "GP.exe": "1.0.0",
+    "GPVV.exe": "1.0.0",
+    "LCF.exe": "1.0.0",
+    "LCFPASS.exe": "1.0.0",
+    "Miao.exe": "1.0.0",
+    "RankAI.exe": "1.0.0",
+    "riot.exe": "1.0.0",
+    "US.exe": "1.0.0"
+  }
+}
